@@ -1,6 +1,6 @@
 # Hospital Management System
 
-This is a basic SQL-based Hospital Management System project. It helps manage patients, doctors, appointments, and medical records using MySQL.
+This is a Hospital Management System project. It helps manage patients, doctors, appointments, and medical records using MySQL.
 
 ## Features
 
